@@ -1,6 +1,6 @@
 use advent_of_code_traits::days::{Day1, Day2, Day3, Day4, Day5, Day6};
 use advent_of_code_traits::Solution;
-use aoc_2021::AdventOfCode2021;
+use aoc_rs::AdventOfCode2021;
 use std::fs::read_to_string;
 
 macro_rules! run {
